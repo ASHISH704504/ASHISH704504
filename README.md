@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ASHISH704504
 - 👀 I’m interested in software development 
-- 🌱 I’m currently learning in 11 th standard 
+- 🌱 I’m currently pursuing BSC-IT 
 - 💞️ I’m looking to collaborate on software developer 
 
 <!---
