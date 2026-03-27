@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ASHISH704504
-- 👀 I’m interested in software development 
-- 🌱 I’m currently pursuing BSC-IT 
-- 💞️ I’m looking to collaborate on software developer 
+- BSC-IT Student from India
+💻 Learning HTML, CSS, JavaScript
+🎯 Goal: Become a Full Stack Developer
+⚡ Building projects daily
 
 <!---
 ASHISH704504/ASHISH704504 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
