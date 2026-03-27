@@ -7,18 +7,18 @@
 🎯 Goal: Become a Full Stack Developer          
 ⚡ Building projects daily           
 
-![snake animation](https://github.com/YOUR-USERNAME/YOUR-USERNAME/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/ASHISH704504/ASHISH704504/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=ASHISH704504&show_icons=true&theme=tokyonight">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=tokyonight">
+  <img src="https://streak-stats.demolab.com?user=ASHISH704504&theme=tokyonight">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=tokyo-night">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ASHISH704504&theme=tokyo-night">
 </p>
 
 <p align="center">
