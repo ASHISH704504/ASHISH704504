@@ -7,7 +7,7 @@
 🎯 Goal: Become a Full Stack Developer          
 ⚡ Building projects daily           
 
-![snake animation](https://github.com/ASHISH704504/ASHISH704504/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://raw.githubusercontent.com/ASHISH704504/ASHISH704504/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ASHISH704504&show_icons=true&theme=tokyonight">
