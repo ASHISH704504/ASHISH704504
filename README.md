@@ -1,4 +1,4 @@
-- BSC-IT Student from India
+🎓 BSC-IT Student from India
 💻 Learning HTML, CSS, JavaScript
 🎯 Goal: Become a Full Stack Developer
 ⚡ Building projects daily
