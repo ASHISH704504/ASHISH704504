@@ -8,9 +8,7 @@
 ⚡ Building projects daily           
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ASHISH704504&show_icons=true&theme=tokyonight">
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ASHISH704504&theme=tokyonight">
