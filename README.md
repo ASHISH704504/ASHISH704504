@@ -50,12 +50,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ashish704504&show_icons=true&theme=matrix&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish704504&layout=compact&theme=matrix&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9" height="165"/>
+<img src="https://streak-stats.demolab.com?user=Ashish704504&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=c9d1d9&sideNums=c9d1d9&dates=c9d1d9"/>
 
-<img src="https://streak-stats.demolab.com?user=Ashish704504&theme=matrix&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashish704504&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=ffffff" width="90%"/>
+![Top Language](https://img.shields.io/badge/Top_Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117)
 
 </div>
 
@@ -90,7 +87,6 @@
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Ashish704504/Ashish704504/output/github-contribution-grid-snake.svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF41&height=120&section=footer&text=System.Exit(0)&fontColor=00FF41&fontSize=16&animation=fadeIn" width="100%"/>
 
