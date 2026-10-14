@@ -11,7 +11,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ashish704504&color=00FF41&style=for-the-badge&label=TRANSMISSIONS+RECEIVED)
 
 ---
 
